@@ -1,0 +1,4 @@
+This program is written in Python (v 3.5.2).It creates a grocery list for 2 shoppers (has a starter list that can be added in whole or part, then has add/remove options until complete). The 2 players guess how much the total grocery cart will be and the "computer" player also makes a guess. When the shopping trip is complete, the actual total is entered and a winner (closest) is calculated, as well as the total shopping trip time.
+
+Author: Sharlee Bryan
+I came up with this idea based on weekly grocery trips my SO and I make and we play this game (for bragging rights). We are playfully competitive but I like to leisurely shop while my SO likes to get checkout as quickly as possible! The "computer guess" and "shopping time" elements give it a bit more fun...
